@@ -10,11 +10,7 @@
 - Recylerview
 - API
 
-- Pertemuan 1
-  - Perkenalan android dev
-  - Setup android studio
-  - Button, Text View, Edit Text
-  - Linear Layout
+- [Pertemuan 1](dosc/pertemuan1.md)
 - Pertemuan 2
   - Constraint
   - Scrollview
