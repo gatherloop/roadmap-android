@@ -1,26 +1,7 @@
 # Roadmap Android Developer
 
-<<<<<<< HEAD
-- Layout
-- Basic Java
-- OOP
-- Event Handler + Toast
-- Form Handler
-- Intent
-- Shared Preference
-- Recylerview
-- API
-
-- [Pertemuan 1](dosc/pertemuan1.md)
-- [Pertemuan 2](dosc/pertemuan2.md)
-=======
 - [Pertemuan 1](docs/pertemuan1.md)
-- Pertemuan 2
->>>>>>> 14b2f26bb18f1465419fd86972dc01e6d748e99f
-  - Constraint
-  - Scrollview
-  - Imageview
-  - Cardview
+- [Pertemuan 2](docs/pertemuan2.md)
 - Pertemuan 3
   - Studi case bikin tampilan bagus
 - Pertemuan 4
