@@ -11,7 +11,7 @@
 - API
 
 - [Pertemuan 1](dosc/pertemuan1.md)
-- Pertemuan 2
+- [Pertemuan 2](dosc/pertemuan2.md)
   - Constraint
   - Scrollview
   - Imageview
