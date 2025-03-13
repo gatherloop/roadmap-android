@@ -1,9 +1,9 @@
 # Mengenal UI lebih kompleks
 
 ## Latar Belakang
-Latar Belakang ConstraintLayout
-ConstraintLayout adalah salah satu layout yang paling banyak digunakan dalam pengembangan UI di Android. Layout ini memberikan fleksibilitas tinggi dalam menempatkan dan mengatur komponen UI secara efisien tanpa harus menggunakan banyak nested layout (tata letak bersarang). Dengan ConstraintLayout, developer dapat membuat desain yang kompleks dengan performa yang lebih baik dan kode yang lebih rapi.
+Dalam membuat tampilan aplikasi Android, kita butuh yang namanya layout buat mengatur posisi tombol, tulisan, gambar, dan elemen lainnya di layar. Kemaren, kita sering pakai LinearLayout, tapi kadang harus bikin layout bersarang (layout di dalam layout) supaya tampilan jadi seperti yang kita mau.
 
+Masalahnya, makin banyak layout yang bersarang, aplikasi bisa jadi lebih berat dan lemot karena sistem harus kerja ekstra buat ngatur semuanya.
 
 ## Tujuan
 
