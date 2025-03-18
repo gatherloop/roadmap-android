@@ -2,8 +2,7 @@
 
 - [Pertemuan 1](docs/pertemuan1.md)
 - [Pertemuan 2](docs/pertemuan2.md)
-- Pertemuan 3
-  - Studi case bikin tampilan bagus
+- [Pertemuan 3](docs/pertemuan3.md)
 - Pertemuan 4
   - Basic Kotlin
 - Pertemuan 5
