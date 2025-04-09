@@ -1,37 +1,25 @@
 # Roadmap Android Developer
 
-- [Pertemuan 1](docs/pertemuan1.md)
-- [Pertemuan 2](docs/pertemuan2.md)
-- [Pertemuan 3](docs/pertemuan3.md)
-- Pertemuan 4
-  - Basic Kotlin
-- Pertemuan 5
-  - OOP 1 (Class, Property, Method, Constructor)
-- Pertemuan 6
-  - OOP 2 (Inheritance, Override, Abstract Class)
-- Pertemuan 7
-  - Studi case android, button + toast
+- [Pertemuan 1 - Pengenalan Android](docs/pertemuan1.md)
+- [Pertemuan 2 - Layouting](docs/pertemuan2.md)
+- [Pertemuan 3 - Study Case UI](docs/pertemuan3.md)
+- Pertemuan 4 - Basic Kotlin
+- Pertemuan 5 - OOP 1 (Class, Property, Method, Constructor)
+- Pertemuan 6 - OOP 2 (Inheritance, Override, Abstract Class)
+- Pertemuan 7 - Event handling
+    - get value from Edit Text
+    - get value from Check Box
+    - trigger button
 - Pertemuan 8
-  - get value from Edit Text
-  - get value from Check Box
-  - get value from Spinner
-- Pertemuan 9
   - Intent Basic
   - Intent Extra
   - studi case intent
-- Pertemuan 10
+- Pertemuan 9
   - Shared preference (get, set)
   - studi case shared preference
-- Pertemuan 11
+- Pertemuan 10
   - Layout inflater
-  - studi case layout inflater
-- Pertemuan 12
+- Pertemuan 11
   - Recyclerview
-- Pertemuan 13
-  - Add data to Recylerview
-- Pertemuan 14
-  - Delete data to Recylerview
-- Pertemuan 15
-  - Update data to Recylerview
-- Pertemuan 16
-  - ....
+- Pertemuan 12
+  - Add Item Recyclerview
