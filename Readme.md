@@ -4,7 +4,7 @@
 - [Pertemuan 2 - Layouting](docs/pertemuan2.md)
 - [Pertemuan 3 - Study Case UI](docs/pertemuan3.md)
 - Pertemuan 4 - Basic Kotlin
-- Pertemuan 5 - OOP 1 (Class, Property, Method, Constructor)
+- [Pertemuan 5 OOP 1 (Class, Property, Method, Constructor)](docs/pertemuan5.md) 
 - Pertemuan 6 - OOP 2 (Inheritance, Override, Abstract Class)
 - Pertemuan 7 - Event handling
     - get value from Edit Text
