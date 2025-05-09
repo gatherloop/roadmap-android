@@ -7,4 +7,4 @@
 
 
 ## Studi Kasus Aplikasi Toko Buku Sederhana(OOP) 
-link source code : https://github.com/EdoFA12/latihan-membuat-produk-detail
+link source code : https://github.com/EdoFA12/Aplikasi-toko-Buku-sederhana-oop-/tree/master/src
